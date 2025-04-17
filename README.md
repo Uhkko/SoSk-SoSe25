@@ -2,7 +2,7 @@
 
 ## Dokumentation
 ---
-### Tag 1
+### Tag 1 17.4.2025
 Konzept ausarbeitung
 - Fertigungsmethoden (3D-Druck)
 - Hardware (Siehe hardwareliste.txt)
