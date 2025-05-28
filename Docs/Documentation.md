@@ -45,6 +45,6 @@ Konzept ausarbeitung
 ### Week 26.5-1.6.2025
 
 Bearbeitung Uebungszettel 2
-- Aufgabe 1: Zeitplan
+- Aufgabe 1: [Zeitplan](Docs/Zeitplan.md)
 
 
