@@ -6,7 +6,7 @@
 |--|**Hardware** |15.6.25|--|
 |n|3D Modell    |15.6.25|Niklas|
 |n|Schaltplan   |10.6.25|Min|
-|n|Zusammenbau  |15.6.25|--|
+|n|Zusammenbau  |15.6.25|Niklas|
 |--|**Software** |20.6.25|--|
 |-|*Prototype*|15.6.25|--|
 |n|Display ansteuern|15.6.25|Fabrice & Linus|
