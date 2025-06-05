@@ -4,31 +4,33 @@
 
 ## Hardware
 
-| ✅/❌ | Beschreibung         | bis        | Zu erledigen von | 
-| :---: | -----------------    | :--------: | ---------------- |
-| ❌    | 3D Modell            | 15.06.2025 | Niklas           |
-| ❌    | Modell Drucken       | 15.06.2025 | Niklas           |
-| ❌    | Hardware akquirieren | 10.06.2025 | Min              | 
-| ❌    | Schaltplan           | 10.06.2025 | Min              |
-| ❌    | Zusammenbau          | 15.06.2025 | Niklas           |
+| ✅/❌ | Prio | Beschreibung         | Zeitbedarf | bis        | Zu erledigen von | 
+| :---: | :---: | -----------------    | --- | :--------: | ---------------- |
+| ❌    | 2 | 3D Modell            | 2h | 15.06.2025 | Niklas           |
+| ❌    | 2 | Modell Drucken       | 4h | 15.06.2025 | Niklas           |
+| ❌    | 1 | Hardware akquirieren | 1h | 10.06.2025 | Min              | 
+| ❌    | 5 | Schaltplan           | 1h | 10.06.2025 | Min              |
+| ❌    | 1 | Zusammenbau          | 1h | 15.06.2025 | Niklas           |
 
 ## Software
 
-| ✅/❌ | Beschreibung                | bis        | Zu erledigen von |    Unterkategorie |
-| :---: | --------------------------- | :--------: | ---------------- | ----------------: |
-| ❌    | Display ansteuern           | 15.06.2025 | Fabrice & Linus  |         Prototype |
-| ❌    | Rotary Encoder              | 15.06.2025 | Fabrice & Linus  |         Prototype |
-| ❌    | Motoransteuern              | 18.06.2025 | Fabrice & Linus  | Weiterentwicklung |
-| ❌    | Sensoren Abfragen           | 18.06.2025 | Fabrice & Linus  | Weiterentwicklung |
-| ❌    | LED steuern                 | 18.06.2025 | Fabrice & Linus  | Weiterentwicklung |
-| ❌    | Verbinden von Handy und ESP | 18.06.2025 | Fabrice & Linus  | Weiterentwicklung |
-| ❌    | LED Ring(Timer)             | 20.06.2025 | Fabrice & Linus  |    Verfeinerungen |
-| ❌    | Eintragungssoftware         | 18.06.2025 | Fabrice & Linus  | Ansteuerung Handy |
-| ❌    | Uebertragung an ESP         | 18.06.2025 | Fabrice & Linus  | Ansteuerung Handy |
+| ✅/❌ | Prio | Beschreibung                | Zeitbedarf | bis        | Zu erledigen von |    Unterkategorie |
+| :---: | :---: | --------------------------- | --- | :--------: | ---------------- | ----------------: |
+| ❌    | 2 | Display ansteuern           | 8h* | 15.06.2025 | Fabrice & Linus  |         Prototype |
+| ❌    | 2 | Rotary Encoder              | 4h* | 15.06.2025 | Fabrice & Linus  |         Prototype |
+| ❌    | 4 | Motoransteuern              | 4h* | 18.06.2025 | Fabrice & Linus  | Weiterentwicklung |
+| ❌    | 3 | Sensoren Abfragen           | 6h* | 18.06.2025 | Fabrice & Linus  | Weiterentwicklung |
+| ❌    | 4 | LED steuern                 | 2h* | 18.06.2025 | Fabrice & Linus  | Weiterentwicklung |
+| ❌    | 1 | Verbinden von Handy und ESP | 12h* | 18.06.2025 | Fabrice & Linus  | Weiterentwicklung |
+| ❌    | 5 | LED Ring(Timer)             | 4h* | 20.06.2025 | Fabrice & Linus  |    Verfeinerungen |
+| ❌    | 1 | Eintragungssoftware         | 16h* | 18.06.2025 | Fabrice & Linus  | Ansteuerung Handy |
+| ❌    | 1 | Uebertragung an ESP         | 14h* | 18.06.2025 | Fabrice & Linus  | Ansteuerung Handy |
 
 ## Anderes
 
-| ✅/❌ | Beschreibung                 | bis        | Zu erledigen von |
-| :---: | ---------------------------- | :--------: | ---------------- |
-| /     | Website Aktuell halten       | 27.06.2025 | Marina           |
-| ❌    | GitHub Doku                  | 27.06.2025 | Min              |
+| ✅/❌ | Prio | Beschreibung                 | Zeitbedarf | bis        | Zu erledigen von |
+| :---: | :---: | ---------------------------- | --- | :--------: | ---------------- |
+| /     | 2 | Website Aktuell halten       | 10h* | 27.06.2025 | Marina           |
+| ❌    | 2 | GitHub Doku                  | 4h* | 27.06.2025 | Min              |
+
+*noch nicht klar einschätzbar
